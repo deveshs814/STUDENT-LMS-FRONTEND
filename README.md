@@ -57,18 +57,6 @@ A sleek and interactive Admin Dashboard to track and analyze student progress, p
 
 ---
 
-## 📤 Deployment Options
-
-### ✅ Vercel (Recommended)
-- Push to GitHub
-- Import in [vercel.com]([https://vercel.com](https://student-lms-frontend.vercel.app/))
-- Auto-detects Vite, deploy instantly
-
-### 🧩 Render (Optional)
-- Build locally: `npm run build`
-- Upload `dist` as static site
-
----
 
 ## 🙋‍♂️ Author
 
